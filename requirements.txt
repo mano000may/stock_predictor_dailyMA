@@ -1,0 +1,18 @@
+# GUI Framework
+customtkinter
+
+# Data Retrieval & Manipulation
+yfinance
+pandas
+requests
+
+# Machine Learning
+scikit-learn
+joblib
+
+# Image Processing
+Pillow
+
+# Data Visualization
+matplotlib
+mplfinance
